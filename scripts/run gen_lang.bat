@@ -1,0 +1,1 @@
+python gen_lang.py --input D:\ESP32-S3\xiaozhi-esp32-1.5.8\main\assets\zh-CN\language.json --output D:\ESP32-S3\xiaozhi-esp32-1.5.8\main\assets\lang_config.h
